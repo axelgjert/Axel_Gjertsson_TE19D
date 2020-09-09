@@ -5,7 +5,7 @@ import colorsys
 phi = 180 * (3 - math.sqrt(5)) 
  
 t = turtle.Pen() 
-t.speed(2) 
+t.speed(8) 
  
 def square(t, size): 
     for tmp in range(0,4): 
